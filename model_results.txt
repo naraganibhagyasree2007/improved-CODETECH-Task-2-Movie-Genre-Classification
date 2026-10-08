@@ -1,0 +1,17 @@
+CODETECH Task 2: Movie Genre Classification
+Model: Logistic Regression with TF-IDF
+
+Model Accuracy: 0.00%
+
+              precision    recall  f1-score   support
+
+      Action       0.00      0.00      0.00       1.0
+      Comedy       0.00      0.00      0.00       0.0
+       Drama       0.00      0.00      0.00       0.0
+      Horror       0.00      0.00      0.00       1.0
+     Romance       0.00      0.00      0.00       1.0
+      Sci-Fi       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       3.0
+   macro avg       0.00      0.00      0.00       3.0
+weighted avg       0.00      0.00      0.00       3.0
